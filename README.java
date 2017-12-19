@@ -1,5 +1,6 @@
 public class README {
 	public static void main(String[] args){
-		System.out.println("¼öÀºÀÌ ReporsitoryÀÔ´Ï´ç");
+		System.out.println("Â¼Ã¶Ã€ÂºÃ€ÃŒ ReporsitoryÃ€Ã”Â´ÃÂ´Ã§");
+		System.out.println("Jenkins complete");
 	}
 }
